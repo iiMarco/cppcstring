@@ -1,4 +1,4 @@
-#include "headers/cstring.h"
+#include "cstring.h"
 
 #define ITR_END                 0xdeadbeef
 
