@@ -16,7 +16,8 @@
  *  this implementation is designed for ease-of-use over efficiency.
  *
  *  Written by Mark Zammit 26/02/2013
- *  Copyright (c) 2013 Mark Zammit. All rights reserved.*/
+ *  Copyright (c) 2013 Mark Zammit. All rights reserved.
+ */
 
 
 /* EXAMPLES OF USE
@@ -33,6 +34,7 @@
  *
  */
 
+/** NOTE: Need to add UNICODE support */
 
 #ifndef CSTRING_H
 #define CSTRING_H
